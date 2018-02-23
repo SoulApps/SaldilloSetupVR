@@ -1,7 +1,7 @@
 ﻿//////////////////////
-// Alejandro Correro
+// Ramón Guardia
 // Curso 2017-2018
-// scrolldown.cs
+// ScrollDown.cs
 /////////////////////
 
 using UnityEngine;

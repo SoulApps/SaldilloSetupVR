@@ -1,4 +1,9 @@
-﻿using System;
+﻿//////////////////////
+// Ramón Guardia
+// Curso 2017-2018
+// ClientButton.cs
+/////////////////////
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

@@ -1,4 +1,8 @@
-﻿
+﻿//////////////////////
+// Ramón Guardia
+// Curso 2017-2018
+// GameManager.cs
+/////////////////////
 public static class GameManager
 {
     // Clave para la dirección ip

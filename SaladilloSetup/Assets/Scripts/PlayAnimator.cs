@@ -1,5 +1,5 @@
 ﻿//////////////////////
-// Alejandro Correro
+// Ramón Guardia
 // Curso 2017-2018
 // playanimator.cs
 /////////////////////

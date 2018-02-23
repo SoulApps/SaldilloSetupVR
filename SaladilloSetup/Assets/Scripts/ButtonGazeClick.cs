@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿//////////////////////
+// Ramón Guardia
+// Curso 2017-2018
+// ButtonGazeClick.cs
+/////////////////////
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿//////////////////////
+// Ramón Guardia
+// Curso 2017-2018
+// MovementScript.cs
+/////////////////////
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
