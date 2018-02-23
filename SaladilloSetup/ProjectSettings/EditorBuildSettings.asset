@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/GazeTimer.unity
+    guid: bfbe62416bd7eb84084c9a22080a9a25
+  - enabled: 1
+    path: Assets/Scenes/Movement.unity
+    guid: ec0506a1b4037b046b07b24e2a0b4a98
